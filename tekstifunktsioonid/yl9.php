@@ -1,5 +1,4 @@
 <?php
-//php.net
 
 /**
  * file name: yl9.php;

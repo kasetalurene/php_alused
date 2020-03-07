@@ -1,4 +1,10 @@
 <?php
+/**
+ * file name: katsetused.php;
+ * autor: Rene Kasetalu;
+ * date: 24.02.2020;
+ */
+
 // Teksti vormindamine
 $tekst = 'Life Is About Ignoring The Drama.';
 echo strtolower($tekst);

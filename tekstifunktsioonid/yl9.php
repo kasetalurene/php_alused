@@ -1,5 +1,4 @@
 <?php
-
 /**
  * file name: yl9.php;
  * autor: Rene Kasetalu;

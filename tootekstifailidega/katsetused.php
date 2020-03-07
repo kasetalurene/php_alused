@@ -3,7 +3,7 @@
 /**
  * file name: katsetused.php;
  * autor: Rene Kasetalu;
- * date: 24.02.2030;
+ * date: 24.02.2020;
  */
 
 

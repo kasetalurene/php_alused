@@ -1,7 +1,7 @@
 <?php
 /**
  * file name: opilased.php;
- * autor: Rene Kasetalu
+ * autor: Rene Kasetalu;
  * date: 10.01.2020;
  */
 

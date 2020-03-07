@@ -1,7 +1,7 @@
 <?php
 /**
  * file name: yl8.php;
- * autor: Rene Kasetalu
+ * autor: Rene Kasetalu;
  * date: 24.01.2020;
  */
 

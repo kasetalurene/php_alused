@@ -1,5 +1,5 @@
 <!--
- * file name: index.html;
+ * file name: arvutused.html;
  * autor: Rene Kasetalu;
  * date: 23.01.2020;
 -->

@@ -4,7 +4,7 @@
  * date: 10.01.2020;
 -->
 
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">

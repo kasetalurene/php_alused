@@ -3,7 +3,7 @@
  * autor: Rene Kasetalu;
  * date: 10.01.2020;
 -->
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
